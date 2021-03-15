@@ -1,0 +1,4 @@
+# created by virtualenv automatically
+flaskTestDb.db
+__pycache__
+venv
